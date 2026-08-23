@@ -114,12 +114,15 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
+OnCreate
 <img width="1911" height="1022" alt="image" src="https://github.com/user-attachments/assets/0ae06347-7c5d-4222-a4b3-28685898dbaa" />
-
+OnStart
 <img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/46086187-8250-4ba5-b18b-b300e175f4a4" />
-
+OnPause
 <img width="1915" height="1027" alt="image" src="https://github.com/user-attachments/assets/b59425e8-482e-46f2-ba1b-8571c9d09562" />
-
+OnResume
+<img width="1911" height="1010" alt="image" src="https://github.com/user-attachments/assets/901613b4-f72a-4338-a412-829d045d7b69" />
+OnRestart
 <img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/51e5210f-4e29-481e-ab05-da4a0860b9c3" />
 
 
